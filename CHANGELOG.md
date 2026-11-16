@@ -10,3 +10,11 @@
 - Added five illustrative scenarios, source/status/provenance records, agent instructions and MIT licence.
 
 This initial release contains documentation and templates. It does not supply executed service assessments, operational integrations, national adapters or legal approvals.
+
+
+## 16 November 2026 — Hugging Face publication
+
+- Add manual and Monday 08:27 UTC publication to the existing GarethFW dataset, with complete token, secret and first-run instructions.
+- Export approved guidance and blank templates as traceable documents/sections with unchanged MIT notices and source/adoption/assessment context.
+- Keep illustrative scenarios separate from training views. Preserve original legal/research dates; publication does not reverify law, approve a service or deploy the described governance workflows.
+- Validate exact extraction, required context, stable source IDs, local navigation and private-access metadata safeguards before publishing.
