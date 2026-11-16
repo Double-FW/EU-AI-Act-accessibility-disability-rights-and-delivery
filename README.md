@@ -55,3 +55,8 @@ Retrieve the document relevant to the task, its legal anchors, applicability con
 This is an initial knowledge release and proposed organisational operating method. A real organisation must adopt responsibilities, resources and procedures; service-specific legal and technical assessments remain necessary. The package contains blank templates and explicitly illustrative scenarios, with no real participant data or service approvals.
 
 Original Double FW material is available under the [MIT licence](LICENSE), including commercial reuse subject to its conditions. Linked legislation, standards and external repositories retain their own rights. Linking does not relicense those sources or imply their endorsement.
+
+
+## Hugging Face dataset publication
+
+The [Hugging Face dataset](https://huggingface.co/datasets/GarethFW/EU_AI_Act_accessibility_disability_rights_and_delivery) is published from approved committed sources. Follow the [complete setup and verification guide](huggingface/SETUP.md) to create a dataset-specific token, save the GitHub secret and run the first sync. Manual and weekly publication updates the dataset; it does not recheck legal currency, adopt organisational controls or deploy the regulatory workflows described above. Illustrative scenarios remain in GitHub and are excluded from dataset views.
