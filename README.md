@@ -60,3 +60,11 @@ Original Double FW material is available under the [MIT licence](LICENSE), inclu
 ## Hugging Face dataset publication
 
 The [Hugging Face dataset](https://huggingface.co/datasets/GarethFW/EU_AI_Act_accessibility_disability_rights_and_delivery) is published from approved committed sources. Follow the [complete setup and verification guide](huggingface/SETUP.md) to create a dataset-specific token, save the GitHub secret and run the first sync. Manual and weekly publication updates the dataset; it does not recheck legal currency, adopt organisational controls or deploy the regulatory workflows described above. Illustrative scenarios remain in GitHub and are excluded from dataset views.
+
+## About the author
+
+Gareth Ford Williams is a senior leader in accessibility and inclusive design and co-founder of Double FW Ltd. His work spans accessibility, UX, technical standards, assistive technology and inclusive media. At the BBC, he led accessibility and UX work and chaired standards governance, translating research and policy into practical guidance.
+
+## About Double FW Ltd
+
+Double FW Ltd is a UK accessibility and inclusive design consultancy. It helps organisations build accessibility into strategy, governance, brands, products, content and services. Its public repositories provide practical guidance for people and AI-assisted workflows.
